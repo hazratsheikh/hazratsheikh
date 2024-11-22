@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hazratsheikh&label=Profile%20views&color=0e75b6&style=flat" alt="hazratsheikh" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hazratsheikh" alt="hazratsheikh" /></a> </p>
-
 - 🔭 I’m currently working on [Website](file:///E:/Test%20project%20work/Facebook%20login%20page.html)
 
 - 🌱 I’m currently learning **React.js**
